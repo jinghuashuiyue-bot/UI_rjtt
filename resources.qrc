@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+    <file>image/z.png</file>
+    <file>image/mark.png</file>
+    <file>image/x.png</file>
+    <file>image/background.png</file>
+  </qresource>
+</RCC>
